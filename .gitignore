@@ -1,0 +1,12 @@
+/.vs/
+/Library/
+/Logs/
+/obj/
+/.vsconfig
+/Assembly-CSharp.csproj
+/HexMap-Sample.sln
+/HexMap.csproj
+/HexMapEditor.csproj
+/Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj
+/Sirenix.OdinInspector.CompatibilityLayer.csproj
+/Sirenix.OdinInspector.Modules.UnityMathematics.csproj

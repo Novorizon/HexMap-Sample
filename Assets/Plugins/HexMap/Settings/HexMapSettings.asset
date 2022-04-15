@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6feec35be75b2d34fbb1c43153d7ebdc, type: 3}
+  m_Name: HexMapSettings
+  m_EditorClassIdentifier: 
+  Settings:
+    ScenePath: Assets/Plugins/HexMap/Editor/Scenes/
+    MapOriginalDataPath: Assets/Main/Maps/
+    MapDataPath: Assets/Main/Maps/
+    chunk: {fileID: 114000010052569294, guid: 5e3077e9ffaf2ae429879fdba11cf0b4, type: 3}
+    TerrainMaterial: {fileID: 2100000, guid: 7479108352ae0ff47989b0feceb14764, type: 2}
+    CellLabelPrefab: {fileID: 11470134, guid: f68794ca03b6f4510b9a5bd6ee9ba2f4, type: 3}
+    Noise: {fileID: 2800000, guid: ff766583cf4a3ab46bc7bbe62ac33041, type: 3}
+    GridTex: {fileID: 0}
